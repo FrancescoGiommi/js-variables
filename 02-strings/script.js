@@ -26,3 +26,11 @@ console.log(numberOfLettersInAlphabet); // Output: 26
 
 const name = "francesco";
 console.log(name);
+
+// 2. Tipi primitivi
+
+const number = 13;
+const text = "stringa";
+const bool = true;
+
+console.log(number, text, bool);
