@@ -8,11 +8,11 @@
 // Stampa tutti i valori nella console.
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
-// e le variabili sopra in modo da stampare correttamente 
+// e le variabili sopra in modo da stampare correttamente
 // in console la stringa con il nome completo
-const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'; // NON MODIFICARE QUESTA RIGA
-const firstName = 'Jane'; // NON MODIFICARE QUESTA RIGA
-const lastName = 'Smith'; // NON MODIFICARE QUESTA RIGA
+const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"; // NON MODIFICARE QUESTA RIGA
+const firstName = "Jane"; // NON MODIFICARE QUESTA RIGA
+const lastName = "Smith"; // NON MODIFICARE QUESTA RIGA
 
 const fullName = null;
 console.log(fullName); // Output: "Jane Smith"
@@ -21,3 +21,8 @@ console.log(fullName); // Output: "Jane Smith"
 // sulla variabile alphabet per ottenere la sua lunghezza
 const numberOfLettersInAlphabet = null;
 console.log(numberOfLettersInAlphabet); // Output: 26
+
+// 1. Dichiarazione di variabili
+
+const name = "francesco";
+console.log(name);
